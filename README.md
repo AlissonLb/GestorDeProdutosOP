@@ -58,6 +58,5 @@ Este é um programa em C# que permite o gerenciamento de produtos, incluindo o c
 7. **Deletar Produto**:
    - O usuário deve fornecer o ID do produto que deseja remover.
 
-## Conclusão
 
-O Gestor de Produtos é uma ferramenta simples e eficaz para gerenciar produtos, permitindo que os usuários realizem operações básicas de cadastro e manutenção de produtos. O uso de arquivos de texto para persistência de dados garante que as informações sejam mantidas entre as execuções do programa.
+#-------------------------------------------------------------------------------
