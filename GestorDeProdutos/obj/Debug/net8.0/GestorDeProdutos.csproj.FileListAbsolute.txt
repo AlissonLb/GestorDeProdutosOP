@@ -1,0 +1,14 @@
+C:\Users\Alisson\source\repos\GestorDeProdutos\GestorDeProdutos\bin\Debug\net8.0\GestorDeProdutos.exe
+C:\Users\Alisson\source\repos\GestorDeProdutos\GestorDeProdutos\bin\Debug\net8.0\GestorDeProdutos.deps.json
+C:\Users\Alisson\source\repos\GestorDeProdutos\GestorDeProdutos\bin\Debug\net8.0\GestorDeProdutos.runtimeconfig.json
+C:\Users\Alisson\source\repos\GestorDeProdutos\GestorDeProdutos\bin\Debug\net8.0\GestorDeProdutos.dll
+C:\Users\Alisson\source\repos\GestorDeProdutos\GestorDeProdutos\bin\Debug\net8.0\GestorDeProdutos.pdb
+C:\Users\Alisson\source\repos\GestorDeProdutos\GestorDeProdutos\obj\Debug\net8.0\GestorDeProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alisson\source\repos\GestorDeProdutos\GestorDeProdutos\obj\Debug\net8.0\GestorDeProdutos.AssemblyInfoInputs.cache
+C:\Users\Alisson\source\repos\GestorDeProdutos\GestorDeProdutos\obj\Debug\net8.0\GestorDeProdutos.AssemblyInfo.cs
+C:\Users\Alisson\source\repos\GestorDeProdutos\GestorDeProdutos\obj\Debug\net8.0\GestorDeProdutos.csproj.CoreCompileInputs.cache
+C:\Users\Alisson\source\repos\GestorDeProdutos\GestorDeProdutos\obj\Debug\net8.0\GestorDeProdutos.dll
+C:\Users\Alisson\source\repos\GestorDeProdutos\GestorDeProdutos\obj\Debug\net8.0\refint\GestorDeProdutos.dll
+C:\Users\Alisson\source\repos\GestorDeProdutos\GestorDeProdutos\obj\Debug\net8.0\GestorDeProdutos.pdb
+C:\Users\Alisson\source\repos\GestorDeProdutos\GestorDeProdutos\obj\Debug\net8.0\GestorDeProdutos.genruntimeconfig.cache
+C:\Users\Alisson\source\repos\GestorDeProdutos\GestorDeProdutos\obj\Debug\net8.0\ref\GestorDeProdutos.dll
